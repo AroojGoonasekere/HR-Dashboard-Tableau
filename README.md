@@ -67,7 +67,7 @@ A detailed table displaying individual employee data:
 
 ## 🌐 Tableau Public Link
 
-🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/your-dashboard-link)
+🔗 **Live Dashboard:** [View on Tableau Public](https://public.tableau.com/views/HRdashboard_17513885346790/HRSummary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
